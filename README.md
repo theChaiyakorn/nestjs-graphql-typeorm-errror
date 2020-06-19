@@ -1,10 +1,10 @@
 
 # GraphQLError
-GraphQLError: Syntax Error: Unexpected <EOF>
+GraphQLError: Syntax Error: Unexpected EOF
 
 ## Description
- got an error when I install to my NestJS project "GraphQLError: Syntax Error: Unexpected <EOF>.
- After install these packages:
+ got an error when I install to my NestJS project "GraphQLError: Syntax Error: Unexpected EOF.
+ After install GraphQL by this command:
  ```bash
  npm i --save @nestjs/graphql graphql-tools graphql apollo-server-express
  ```
